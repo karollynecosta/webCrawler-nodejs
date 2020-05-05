@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Node.js
+Web Crawler with Node.js
 </h3>
 
 # :dart: Projeto:
@@ -17,6 +17,8 @@ Este projeto utilizará da técnica de extração de dados estratégicos chamada
 
 # :sparkles: Especificações Técnicas
 
+<p>https://cheerio.js.org/</p>
+<p>https://www.npmjs.com/package/crawler</p>
 <p>Estilização e padronização de sintaxe by Prettier;</p>
 
 <p>Para inicialização deste projeto você deve utilizar os comandos:
