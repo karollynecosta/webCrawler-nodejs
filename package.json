@@ -1,0 +1,14 @@
+{
+  "name": "webCrawler-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/karollynecosta/webCrawler-nodejs.git",
+  "author": "karollynecosta <karolcosta2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "crawler": "^1.2.1",
+    "request": "^2.88.2"
+  }
+}
