@@ -6,7 +6,7 @@
 Node.js
 </h3>
 
-# Projeto:
+# :dart: Projeto:
 
 Este projeto utilizará da técnica de extração de dados estratégicos chamada Web Crawler;
 "Web crawler, ou bot, é um algoritmo usado para analisar o código de um website em busca de informações, e depois usá-las para gerar insights ou classificar os dados encontrados."
